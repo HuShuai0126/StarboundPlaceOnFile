@@ -1,0 +1,60 @@
+[20:12:10.940] [Info] Root: Preparing Root...
+[20:12:10.953] [Info] Root: Done preparing Root.
+[20:12:10.954] [Info] Root: no runtime config file, creating new default runtime config
+[20:12:10.954] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[20:12:10.954] [Info] Root: Loaded Configuration in 0.0004828 seconds
+[20:12:12.038] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[20:12:13.063] [Warn] Root: Unrecognized file in asset directory 'mods_go_here', skipping
+[20:12:13.064] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[20:12:13.064] [Info] Root: Detected asset source named 'SChinese' at '..\mods\Starbound-Chinese-StarCore-Font'
+[20:12:13.065] [Info] Root: Detected asset source named 'SC-Font' at '..\mods\StarCore.pak'
+[20:12:13.066] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[20:12:13.066] [Info] Loading assets from: '..\assets\packed.pak'
+[20:12:14.090] [Info] Loading assets from: '..\mods\Starbound-Chinese-StarCore-Font'
+[20:12:15.520] [Info] Loading assets from: '..\mods\StarCore.pak'
+[20:12:15.523] [Info] Loading assets from: '..\assets\user'
+[20:12:18.903] [Info] Assets digest is 9267d0d2d8527fd52edba760d310aafd1151d7716308bcdf0ffb41e8404622f1
+[20:12:18.904] [Info] Root: Loaded Assets in 7.95048 seconds
+[20:12:18.904] [Info] Root: Writing runtime configuration to '..\storage\starbound_server.config'
+[20:12:18.943] [Info] Root: Loaded NameGenerator in 7.98793 seconds
+[20:12:19.338] [Info] Root: Loaded PlantDatabase in 0.394546 seconds
+[20:12:19.759] [Info] Root: Loaded ProjectileDatabase in 0.420946 seconds
+[20:12:20.616] [Info] Root: Loaded MonsterDatabase in 0.853074 seconds
+[20:12:21.026] [Info] Root: Loaded NpcDatabase in 0.410551 seconds
+[20:12:21.036] [Info] Root: Loaded StagehandDatabase in 0.0092627 seconds
+[20:12:21.060] [Info] Root: Loaded VehicleDatabase in 0.0243009 seconds
+[20:12:21.074] [Info] Root: Loaded PlayerFactory in 0.0094804 seconds
+[20:12:21.547] [Info] Root: Loaded ObjectDatabase in 2.64146 seconds
+[20:12:21.553] [Info] Root: Loaded VersioningDatabase in 0.006194 seconds
+[20:12:21.554] [Info] Root: Loaded EntityFactory in 0.478438 seconds
+[20:12:21.617] [Info] Root: Loaded ParticleDatabase in 0.0642489 seconds
+[20:12:21.627] [Info] Root: Loaded ImageMetadataDatabase in 5.10001e-06 seconds
+[20:12:22.309] [Info] Root: Loaded MaterialDatabase in 0.755375 seconds
+[20:12:22.327] [Info] Root: Loaded TerrainDatabase in 0.0178847 seconds
+[20:12:22.498] [Info] Root: Loaded BiomeDatabase in 0.166722 seconds
+[20:12:22.503] [Info] Root: Loaded LiquidsDatabase in 0.0042477 seconds
+[20:12:22.588] [Info] Root: Loaded StatusEffectDatabase in 0.0845545 seconds
+[20:12:23.135] [Info] Root: Loaded DamageDatabase in 0.545849 seconds
+[20:12:23.151] [Info] Root: Loaded EffectSourceDatabase in 0.0161408 seconds
+[20:12:23.165] [Info] Root: Loaded FunctionDatabase in 0.0130177 seconds
+[20:12:23.225] [Info] Root: Loaded TreasureDatabase in 0.0596729 seconds
+[20:12:23.832] [Info] Root: Loaded DungeonDefinitions in 0.607461 seconds
+[20:12:23.833] [Info] Root: Loaded TilesetDatabase in 0.0001085 seconds
+[20:12:23.839] [Info] Root: Loaded StatisticsDatabase in 0.0059509 seconds
+[20:12:23.840] [Info] Root: Loaded EmoteProcessor in 0.0002695 seconds
+[20:12:23.863] [Info] Root: Loaded SpeciesDatabase in 0.0177135 seconds
+[20:12:24.034] [Info] Root: Loaded QuestTemplateDatabase in 0.170236 seconds
+[20:12:24.043] [Info] Root: Loaded AiDatabase in 0.0088856 seconds
+[20:12:24.057] [Info] Root: Loaded TechDatabase in 0.012068 seconds
+[20:12:24.123] [Info] Root: Loaded CodexDatabase in 0.0657258 seconds
+[20:12:24.820] [Info] Root: Loaded BehaviorDatabase in 0.695709 seconds
+[20:12:24.824] [Info] Root: Loaded DanceDatabase in 0.0035687 seconds
+[20:12:24.842] [Info] Root: Loaded SpawnTypeDatabase in 0.0173787 seconds
+[20:12:24.889] [Info] Root: Loaded RadioMessageDatabase in 0.046648 seconds
+[20:12:28.187] [Info] Root: Loaded ItemDatabase in 6.64016 seconds
+[20:12:28.506] [Info] Root: Loaded CollectionDatabase in 3.61569 seconds
+[20:12:28.681] [Info] Server Version 1.4.4 (windows x86_64) Source ID: 8cbe6faf22282659828a194e06a08999f213769e Protocol: 747
+[20:12:28.683] [Info] UniverseServer: Acquiring universe lock file
+[20:12:28.706] [Info] UniverseServer: Loading settings
+[20:12:28.711] [Info] UniverseServer: Starting UniverseServer with UUID: 0bff414233b8c26792546060bbbe215f
+[20:12:28.712] [Info] UniverseServer: listening for incoming TCP connections on 0.0.0.0:21025

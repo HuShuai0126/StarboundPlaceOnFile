@@ -1,0 +1,119 @@
+[19:06:19.632] [Info] Root: Preparing Root...
+[19:06:19.636] [Info] Root: Done preparing Root.
+[19:06:19.636] [Info] Client Version 1.4.4 (windows x86_64) Source ID: 8cbe6faf22282659828a194e06a08999f213769e Protocol: 747
+[19:06:19.636] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[19:06:19.983] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[19:06:20.713] [Warn] Root: Unrecognized file in asset directory 'mods_go_here', skipping
+[19:06:20.714] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[19:06:20.714] [Info] Root: Detected asset source named 'SChinese' at '..\mods\Starbound-Chinese-StarCore-Font'
+[19:06:20.714] [Info] Root: Detected asset source named 'SC-Font' at '..\mods\StarCore.pak'
+[19:06:20.714] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[19:06:20.715] [Info] Loading assets from: '..\assets\packed.pak'
+[19:06:21.212] [Info] Loading assets from: '..\mods\Starbound-Chinese-StarCore-Font'
+[19:06:21.730] [Info] Loading assets from: '..\mods\StarCore.pak'
+[19:06:21.731] [Info] Loading assets from: '..\assets\user'
+[19:06:24.010] [Info] Assets digest is 9267d0d2d8527fd52edba760d310aafd1151d7716308bcdf0ffb41e8404622f1
+[19:06:24.010] [Info] Root: Loaded Assets in 4.37351 seconds
+[19:06:24.019] [Info] Application: Initializing SDL Video
+[19:06:24.033] [Info] Application: Initializing SDL Joystick
+[19:06:24.118] [Info] Application: Initializing SDL Sound
+[19:06:24.240] [Info] Initialized Steam platform services
+[19:06:24.243] [Error] Failed to instantiate discord core (err 26)
+[19:06:24.243] [Info] Was not able to authenticate with Discord and create all components, Discord services will be unavailable
+[19:06:24.245] [Info] Application: Creating SDL Window
+[19:06:25.053] [Info] Application: Enabling VSync with late swap tearing
+[19:06:25.141] [Info] Application: Opened default audio device with 44.1khz / 16 bit stereo audio, 2048 sample size buffer
+[19:06:25.162] [Info] OpenGL version: '4.6.0 NVIDIA 388.57' vendor: 'NVIDIA Corporation' renderer: 'GeForce GTX 950M/PCIe/SSE2' shader: '4.60 NVIDIA'
+[19:06:25.183] [Info] Application: initialization...
+[19:06:25.185] [Info] Root: Loaded Configuration in 0.0016721 seconds
+[19:06:25.190] [Info] Application: renderer initialization...
+[19:06:25.193] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 128
+[19:06:25.225] [Info] Root: Loaded ImageMetadataDatabase in 4.40003e-06 seconds
+[19:06:25.242] [Info] Application: main update loop...
+[19:06:25.246] [Info] Loading mods from user generated content with id '807695810' from directory 'I:\Steam\steamapps\workshop\content\211820\807695810'
+[19:06:25.246] [Info] Reloading to include all user generated content
+[19:06:25.246] [Info] Root: Reloading from disk
+[19:06:25.246] [Info] Root: Writing runtime configuration to '..\storage\starbound.config'
+[19:06:25.286] [Info] Root: Loaded Configuration in 0.0009856 seconds
+[19:06:25.286] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[19:06:25.633] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[19:06:25.881] [Warn] Root: Unrecognized file in asset directory 'mods_go_here', skipping
+[19:06:25.881] [Info] Root: Scanning for asset sources in directory 'I:\Steam\steamapps\workshop\content\211820\807695810'
+[19:06:25.932] [Warn] Root: Overriding duplicate asset source '..\mods\Starbound-Chinese-StarCore-Font' named 'SChinese' with higher or equal priority source 'I:\Steam\steamapps\workshop\content\211820\807695810\contents.pak
+[19:06:25.932] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[19:06:25.932] [Info] Root: Detected asset source named 'SChinese' at 'I:\Steam\steamapps\workshop\content\211820\807695810\contents.pak'
+[19:06:25.932] [Info] Root: Detected asset source named 'SC-Font' at '..\mods\StarCore.pak'
+[19:06:25.932] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[19:06:25.932] [Info] Loading assets from: '..\assets\packed.pak'
+[19:06:26.397] [Info] Loading assets from: 'I:\Steam\steamapps\workshop\content\211820\807695810\contents.pak'
+[19:06:26.471] [Info] Loading assets from: '..\mods\StarCore.pak'
+[19:06:26.472] [Info] Loading assets from: '..\assets\user'
+[19:06:27.384] [Info] Assets digest is 2019fc1f6852be1770577f66d131edd8704502485dcb327324ef59f86087be74
+[19:06:27.384] [Info] Root: Loaded Assets in 2.09883 seconds
+[19:06:27.412] [Info] Root: Loaded ImageMetadataDatabase in 3.00002e-06 seconds
+[19:06:27.412] [Info] Root: Loaded NameGenerator in 0.0262397 seconds
+[19:06:27.655] [Info] Root: Loaded PlantDatabase in 0.242999 seconds
+[19:06:27.946] [Info] Root: Loaded ProjectileDatabase in 0.290747 seconds
+[19:06:28.568] [Info] Root: Loaded MonsterDatabase in 0.62104 seconds
+[19:06:28.798] [Info] Root: Loaded NpcDatabase in 0.230173 seconds
+[19:06:28.803] [Info] Root: Loaded StagehandDatabase in 0.0056989 seconds
+[19:06:28.815] [Info] Root: Loaded VehicleDatabase in 0.0115365 seconds
+[19:06:28.823] [Info] Root: Loaded PlayerFactory in 0.0075648 seconds
+[19:06:29.127] [Info] Root: Loaded ObjectDatabase in 1.74166 seconds
+[19:06:29.133] [Info] Root: Loaded VersioningDatabase in 0.0055596 seconds
+[19:06:29.133] [Info] Root: Loaded EntityFactory in 0.310401 seconds
+[19:06:29.253] [Info] Root: Loaded ParticleDatabase in 0.119402 seconds
+[19:06:29.592] [Info] Root: Loaded MaterialDatabase in 0.45911 seconds
+[19:06:29.599] [Info] Root: Loaded TerrainDatabase in 0.0074335 seconds
+[19:06:29.676] [Info] Root: Loaded BiomeDatabase in 0.0758811 seconds
+[19:06:29.678] [Info] Root: Loaded LiquidsDatabase in 0.0018738 seconds
+[19:06:29.694] [Info] Root: Loaded StatusEffectDatabase in 0.0167401 seconds
+[19:06:30.072] [Info] Root: Loaded DamageDatabase in 0.377801 seconds
+[19:06:30.081] [Info] Root: Loaded EffectSourceDatabase in 0.0086099 seconds
+[19:06:30.086] [Info] Root: Loaded FunctionDatabase in 0.0046774 seconds
+[19:06:30.122] [Info] Root: Loaded TreasureDatabase in 0.0358326 seconds
+[19:06:30.506] [Info] Root: Loaded DungeonDefinitions in 0.384257 seconds
+[19:06:30.507] [Info] Root: Loaded TilesetDatabase in 0.0006133 seconds
+[19:06:30.512] [Info] Root: Loaded StatisticsDatabase in 0.0054224 seconds
+[19:06:30.513] [Info] Root: Loaded EmoteProcessor in 0.0003531 seconds
+[19:06:30.523] [Info] Root: Loaded SpeciesDatabase in 0.0101872 seconds
+[19:06:30.615] [Info] Root: Loaded QuestTemplateDatabase in 0.0918623 seconds
+[19:06:30.618] [Info] Root: Loaded AiDatabase in 0.0027473 seconds
+[19:06:30.620] [Info] Root: Loaded TechDatabase in 0.00162 seconds
+[19:06:30.643] [Info] Root: Loaded CodexDatabase in 0.0231442 seconds
+[19:06:31.059] [Info] Root: Loaded BehaviorDatabase in 0.415615 seconds
+[19:06:31.062] [Info] Root: Loaded DanceDatabase in 0.0034117 seconds
+[19:06:31.071] [Info] Root: Loaded SpawnTypeDatabase in 0.0086454 seconds
+[19:06:31.092] [Info] Root: Loaded RadioMessageDatabase in 0.0212513 seconds
+[19:06:33.205] [Info] Root: Loaded ItemDatabase in 4.07732 seconds
+[19:06:33.387] [Info] Root: Loaded CollectionDatabase in 2.29462 seconds
+[19:06:34.058] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 256
+[19:06:37.283] [Info] UniverseServer: Acquiring universe lock file
+[19:06:37.287] [Info] UniverseServer: Loading settings
+[19:06:37.291] [Info] UniverseServer: Starting UniverseServer with UUID: 0bff414233b8c26792546060bbbe215f
+[19:06:37.307] [Info] UniverseServer: Logged in player 'Hss' locally
+[19:06:37.307] [Info] UniverseServer: Logged in account '<anonymous>' as player 'Hss' from address local
+[19:06:37.309] [Info] UniverseServer: Loading system world (981632147, -457088742, 36474793) from disk storage
+[19:06:37.314] [Info] UniverseClient: Joined server as client 1
+[19:06:37.352] [Info] UniverseServer: Reviving player at CelestialWorld:981632052:-457088663:99972287:10
+[19:06:37.353] [Info] UniverseServer: Client 'Hss' <1> (local) connected
+[19:06:37.400] [Info] UniverseServer: Loading celestial world 981632052:-457088663:99972287:10
+[19:06:37.454] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 256
+[19:06:37.461] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 256
+[19:06:37.470] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 256
+[19:06:37.471] [Info] Setting steam rich presence connection as steamid_76561198373005885
+[19:06:37.476] [Error] Cannot set Steam achievement kill10poptops
+[19:06:37.600] [Info] Protected dungeonIds for world set to (1, 65524)
+[19:06:38.408] [Info] UniverseServer: Warping player 1 to CelestialWorld:981632052:-457088663:99972287:10=217.663.683.612
+[19:11:39.876] [Info] UniverseClient: Client disconnecting...
+[19:11:39.961] [Info] Client received world stop packet, leaving: Removed
+[19:11:39.965] [Info] UniverseServer: Client 'Hss' <1> (local) disconnected for reason: 
+[19:11:39.966] [Info] UniverseServer: Stopping idle world CelestialWorld:981632052:-457088663:99972287:10
+[19:11:40.315] [Info] UniverseServer: Stopping UniverseServer
+[19:11:40.330] [Info] Clearing steam rich presence connection
+[19:11:41.811] [Info] Application: quit requested
+[19:11:41.811] [Info] Application: quitting...
+[19:11:41.811] [Info] Application: shutdown...
+[19:11:42.025] [Info] Root: Shutting down Root
+[19:11:42.334] [Info] Application: Destroying SDL Window
+[19:11:42.425] [Info] Application: stopped gracefully
